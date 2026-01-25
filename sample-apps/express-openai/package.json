@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@aikidosec/firewall": "file:../../build",
-    "dotenv": "^16.4.1",
+    "dotenv": "^16.6.1",
     "express": "^4.19.2",
     "openai": "^4.0.0"
   }
