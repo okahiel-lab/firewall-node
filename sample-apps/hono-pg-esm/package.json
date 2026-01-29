@@ -9,7 +9,7 @@
     "@aikidosec/firewall": "file:../../build",
     "@hono/node-server": "^1.13.8",
     "@sentry/node": "^10.22.0",
-    "hono": "^4.7.2",
+    "hono": "^4.11.7",
     "pg": "^8.13.3"
   }
 }
